@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "pcat photo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erenduman2/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "eren duman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erenduman2/PCAT/issues"
+  },
+  "homepage": "https://github.com/erenduman2/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
