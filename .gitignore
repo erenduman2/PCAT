@@ -145,5 +145,6 @@ dist
 tmp/
 temp/
 kullanilan/
+kalan yer
 
 # End of https://www.toptal.com/developers/gitignore/api/node
