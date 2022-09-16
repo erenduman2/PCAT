@@ -144,5 +144,6 @@ dist
 #temporary folders
 tmp/
 temp/
+kullanilan/
 
 # End of https://www.toptal.com/developers/gitignore/api/node
